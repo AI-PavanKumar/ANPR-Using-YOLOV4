@@ -8,12 +8,7 @@ DISCLAIMER: This repository is very similar to my repository: [tensorflow-yolov4
 ### Demo of Object Counter Custom Function in Action!
 <p align="center"><img src="data/helpers/object_counter.gif"\></p>
 
-## Currently Supported Custom Functions and Flags
-* [x] [Counting Objects (total objects and per class)](#counting)
-* [x] [Print Info About Each Detection (class, confidence, bounding box coordinates)](#info)
-* [x] [Crop Detections and Save as New Image](#crop)
-* [x] [License Plate Recognition Using Tesseract OCR](#license)
-* [x] [Apply Tesseract OCR to Detections to Extract Text](#ocr)
+
 
 If there is a custom function you want to see created then create an issue in the issues tab and suggest it! If enough people suggest the same custom function I will add it quickly!
 
