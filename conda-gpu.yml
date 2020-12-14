@@ -1,0 +1,17 @@
+name: ANPR-gpu
+
+dependencies:
+  - python==3.7
+  - pip
+  - matplotlib
+  - opencv
+  
+  - pip:
+    - tensorflow-gpu==2.3.0rc0
+    - opencv-python==4.1.1.26
+    - lxml
+    - tqdm
+    - absl-py
+    - easydict
+    - pillow
+    - pytesseract
